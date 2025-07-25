@@ -1,3 +1,4 @@
+<img width="100" height="100" alt="Guess" src="https://github.com/user-attachments/assets/0e79c9f9-ceb3-4473-8418-e5fc286e013e" />
 # GuessWithSni
 A multi-level Java-based number guessing game, developed in NetBeans, demonstrating strong GUI design and IO File management skills. It features adaptable difficulty tiers with unique timers, number ranges, and attempt limits for an engaging user experience.
 
