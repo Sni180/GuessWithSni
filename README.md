@@ -55,9 +55,6 @@ GuessWithSni is a guessing game application developed in **Java**. The project a
 Follow the on-screen prompts to guess the number. The game will inform you if your guess is too high, too low, or correct. You have a limited number of attempts to guess the correct number, with each level.
 
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Authors
 
